@@ -1,0 +1,15 @@
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\bin\Debug\netcoreapp3.1\DroneCnC.exe
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\bin\Debug\netcoreapp3.1\DroneCnC.deps.json
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\bin\Debug\netcoreapp3.1\DroneCnC.runtimeconfig.json
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\bin\Debug\netcoreapp3.1\DroneCnC.runtimeconfig.dev.json
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\bin\Debug\netcoreapp3.1\DroneCnC.dll
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\bin\Debug\netcoreapp3.1\DroneCnC.pdb
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\obj\Debug\netcoreapp3.1\DroneCnC.csprojAssemblyReference.cache
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\obj\Debug\netcoreapp3.1\DroneCnC.AssemblyInfoInputs.cache
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\obj\Debug\netcoreapp3.1\DroneCnC.AssemblyInfo.cs
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\obj\Debug\netcoreapp3.1\DroneCnC.csproj.CoreCompileInputs.cache
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\obj\Debug\netcoreapp3.1\DroneCnC.dll
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\obj\Debug\netcoreapp3.1\DroneCnC.pdb
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\obj\Debug\netcoreapp3.1\DroneCnC.genruntimeconfig.cache
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\bin\Debug\netcoreapp3.1\Windows.winmd
+C:\Users\Zen\source\repos\DroneCnC\DroneCnC\obj\Debug\netcoreapp3.1\DroneCnC.csproj.CopyComplete
